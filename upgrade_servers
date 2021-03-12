@@ -15,9 +15,11 @@ s3-us-west-2.amazonaws.com
 api.snapcraft.io
 mirror.centos.org
 centos.org
+vault.centos.org
 download.mono-project.com
 mono-project.com
 repo.r1soft.com
 rpms.remirepo.net
 repo.zabbix.com
 keyserver.ubuntu.com
+download.fedoraproject.org
